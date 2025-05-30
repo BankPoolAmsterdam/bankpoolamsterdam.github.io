@@ -7,9 +7,8 @@ layout: default
 ## 🔁 Format Summary
 - Format: Double Elimination until Quarterfinals → Single Elimination from Quarterfinals
 - Players: 32
-- Match format: Best of 3
-- Average match time: **60 minutes**
-- Grand final: Single match (no reset)
+- Match format: Best of 3 / Race to 2
+- **Average match time: 60 minutes**
 
 ## 🧮 Match Volume Estimate
 - Double KO phase (until 8 players remain): ~48 matches
@@ -40,13 +39,16 @@ To account for real-world conditions, the estimated match durations should be ad
 
 These buffers ensure a realistic and efficient tournament schedule with reduced risk of overruns or delays.
 
-## 🕓 Tournament Timeline – Start Time: 2:00 PM (14:00)
+## 🕓 Tournament Timeline Example – Start Time: 2:00 PM (14:00)
 
 ### Format Summary:
 - 32 players
 - Double elimination until quarterfinals
 - Single elimination from quarterfinals
-- Estimated total matches: ~55
+- Match slots scheduled: 61
+- Matches required: ~55
+- Built-in slack: ~6 slots for delays or long matches
+- Final comfortably playable between 23:00 – 00:30
 - Match duration: ~60 minutes
 - 6 tables available
 - Target end: ~1:00 AM
@@ -68,13 +70,5 @@ These buffers ensure a realistic and efficient tournament schedule with reduced 
 | **00:00 – 01:00** | 0–2 matches    | Awards / Overtime buffer / sudden death     |
 
 ---
-
-### 🔢 Summary
-
-- Match slots scheduled: **61**
-- Matches required: **~55**
-- Built-in slack: ~6 slots for delays or long matches
-- Final comfortably playable between **23:00 – 00:30**
-
 
 [back](./)
