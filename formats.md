@@ -43,6 +43,7 @@ These buffers ensure a realistic and efficient tournament schedule with reduced 
 
 ### Format Summary:
 - 32 players
+- 6 tables available
 - Double elimination until quarterfinals
 - Single elimination from quarterfinals
 - Match slots scheduled: 61
@@ -50,7 +51,6 @@ These buffers ensure a realistic and efficient tournament schedule with reduced 
 - Built-in slack: ~6 slots for delays or long matches
 - Final comfortably playable between 23:00 – 00:30
 - Match duration: ~60 minutes
-- 6 tables available
 - Target end: ~1:00 AM
 
 ---
