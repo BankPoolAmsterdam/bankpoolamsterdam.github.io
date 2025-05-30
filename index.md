@@ -71,7 +71,7 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 1. The following are the most common fouls that may occur during a standard game of Bank Pool. Committing any of these fouls results in a penalty as described in Rule 11 (Foul Penalty).
 
-  - No cushion contact after the cue ball strikes the object ball;
+  - No cushion contact after the cue ball strikes the object ball, if no ball is pocketed;
 
   - Double hit or push shot;
 
