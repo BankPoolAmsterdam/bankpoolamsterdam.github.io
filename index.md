@@ -126,6 +126,8 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 6. The implementation of the Express Rule is at the sole discretion of tournament officials and may not be appealed. It is intended to maintain tournament flow and fairness in extended matches.
 
-7. For organizational or time-management reasons, tournament officials may decide to terminate an overtime match. In such a case:
+## 19 Termination of Overtime Matches
+
+1. For organizational or time-management reasons, tournament officials may decide to terminate an overtime match. In such a case:
    - The player with the highest current score will be declared the winner;
    - If the score is tied, the match will resume under Express Rules and the next legally scored point will determine the winner.
