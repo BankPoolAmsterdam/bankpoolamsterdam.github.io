@@ -142,3 +142,26 @@ Players are expected to be familiar with these fouls and conduct themselves acco
 1. For organizational or time-management reasons, tournament officials may decide to terminate an overtime match. In such a case:
    - The player with the highest current score will be declared the winner;
    - If the score is tied, the match will resume under Express Rules and the next legally scored point will determine the winner.
+
+## 19. Appendix of Standard Bank Pool Terminology
+Courtesy of [bankpool.org](https://bankpool.org/)
+
+- Cross-over: A bank shot where the path of the object ball on the way to the pocket after it banks, crosses paths with the cue ball;
+- Cross-corner: A one-rail bank off one of the long cushions (side of the table) shot into a corner pocket;
+- Cross-side: A one-rail bank shot off one of the long cushions (side of the table) shot into a side pocket;
+- One-rail: Any shot banked off any single cushion;
+- Straight-back:  A one-rail bank off an end cushion (head or foot of the table) into a corner pocket;
+- Straight-back underneath:  Designates the target pocket as the one nearest the shooter on a straight back bank;
+- Straight back twice, or Up and down: A two-rail shot banked up and down the table into a corner pocket, using only the head and foot cushions;
+- Straight back three times: A three-rail bank up and down the table into a corner pocket, using only the head and foot cushions;
+- Two-rails: Any two-cushion bank shot;
+- Two in the corner: Any two-cushion bank shot into a corner pocket;
+- Two in the side: Any two-cushion bank shot into a side pocket;
+- Twice across in the side: A two-cushion bank back and forth across the table into a side pocket, using only the side cushions;
+- Twice across in the corner: A two-cushion bank across the table into a corner pocket, using only the side cushions;
+- Three times across: A three-cushion bank across the table into a corner pocket, using only the side cushions;
+- Three rails:  Any three-cushion bank shot;
+- Four rails:  Any four-cushion bank shot;
+- Five rails:  Any five-cushion bank shot;
+- Three (or four or five) in the corner:  A three-cushion (or four or five-cushion) bank into a corner pocket;
+- Three (or four or five) in the side:  A three-cushion (or four or five-cushion) bank into a side pocket.
