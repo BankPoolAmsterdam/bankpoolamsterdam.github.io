@@ -4,7 +4,9 @@ layout: default
 
 ![Bank Pool Amsterdam](./assets/images/bankpoolamsterdam.jpeg)
 
-# Rules (Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipool.com/bcapl-rules.html))
+# Tournament Rules
+
+Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipool.com/bcapl-rules.html)
 
 ## 1 The Game
 
