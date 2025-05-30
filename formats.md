@@ -44,6 +44,7 @@ These buffers ensure a realistic and efficient tournament schedule with reduced 
 ### Format Summary:
 - 32 players
 - 6 tables available
+- Short rack setup (9 balls)
 - Double elimination until quarterfinals
 - Single elimination from quarterfinals
 - Match slots scheduled: 61
