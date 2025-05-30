@@ -2,122 +2,128 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+![Bank Pool Amsterdam](./assets/images/bankpoolamsterdam.jpeg)
 
-[Link to another page](./another-page.html).
+# Rules (Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipool.com/bcapl-rules.html))
 
-There should be whitespace between paragraphs.
+## 1 The Game
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+1. Bank Pool (also called “Banks”) is a call shot game played with fifteen object balls plus a cue ball in the long rack game, and any nine object balls plus a cue ball in the short rack game. To score you are required to play a bank shot. The object of the game is to score a predetermined number of balls before your opponent does. The game is played by two, three, four or five players. Two players may play either a long rack or short rack game. For three, four or five players, the long rack game is the suggested format.
 
-# Header 1
+## 2 The Rack
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+1. The balls are racked as follows:
+   - a. in long rack bank pool, in a triangle and placed randomly;
+   - b. in short rack bank pool, in a diamond and placed randomly;
+   - c. the apex ball on the foot spot;
+   - d. the rows behind the apex are parallel to the foot string.
 
-## Header 2
+## 3 Break Requirements
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+1. You begin the break with cue ball in hand behind the head string. There is no requirement to contact any particular object ball first. You must cause at least four object balls to contact the cushions and at least one object ball has to pass the side pocket or it is an illegal break. Any balls pocketed on the opening break are not scored and are spotted after your inning ends.
 
-### Header 3
+2. All players are required to use a forceful break. The determination of a forceful break is at the discretion of tournament officials. If a break is not deemed forceful enough, the officials may issue a warning. A second warning will result in a foul being called and ball-in-hand awarded to the opponent. A third instance will be considered unsportsmanlike conduct and may result in further disciplinary action under tournament rules.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+3. If your break is illegal, your opponent may:
+   - a. accept the table in position, or;
+   - b. re-rack the balls and break or make you break again.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## 4 Breaking Subsequent Racks
 
-#### Header 4
+1. If a match consists of multiple games, players must alternate breaking subsequent games.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## 5 Continuing Play
 
-##### Header 5
+1. All object balls are legal. Your inning continues as long as you legally pocket a ball.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## 6 Scoring
 
-###### Header 6
+1. A legally pocketed ball counts as one ball.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+2. Any ball pocketed in addition to the called ball on the same shot does not count and is an illegally pocketed ball.
 
-### There's a horizontal rule below this.
+## 7 Legally Pocketed Ball
 
-* * *
+1. A ball is legally pocketed if:
+   - a. it is pocketed as the result of a bank shot;
+   - b. the number of cushions are designated when calling the shot and only that number of cushions are contacted;
+   - c. it is not pocketed as a result of a kiss or carom;
+   - d. it is not contacted by the cue ball more than once.
 
-### Here is an unordered list:
+2. Contact with a cushion means that the called ball has made contact with a cushion designated as a part of the called bank shot. Incidental contact with a cushion as the object ball approaches the called pocket is not considered contacting an extra cushion that would disqualify a shot from being legal based on the number of called cushions.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## 8 Illegally Pocketed Ball
 
-### And an ordered list:
+1. A ball is illegally pocketed if the shot does not meet the requirements of Rule 6 or Rule 7, or if a foul is committed on the shot.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+## 9 Shot Call Convention
 
-### And a nested list:
+1. Players must call the object ball and the intended pocket including the amount of cushions that will be contacted by the object ball.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+2. If the shot is a direct one-rail bank into a pocket, it is considered obvious and does not require any verbal communication, even if there are other balls near the line of the shot.
 
-### Small image
+3. For shots involving multiple rails, the player must explicitly call the shot in a way that removes any ambiguity.
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+## 10 Jump Shot
 
-### Large image
+1. Jump bank shots are allowed and you can use a dedicated jump cue to execute the shot.
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## 11 Foul Penalty
 
+1. For each foul you commit you must spot one of your previously scored balls, reducing your score by one. If your score reaches negative three (-3) is loss of game.
 
-### Definition lists can be used with HTML syntax.
+2. If you foul and have no previously scored object balls, you “owe” one for that foul and must spot balls after each scoring inning until all “owed balls” are eliminated.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+3. Your opponent must play the cue ball in position, unless there is a scratch or it is jumped off the table.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## 12 Scratch or Cue Ball Jumped Off Table
 
-```
-The final element.
-```
+1. It is a foul if you scratch or jump the cue ball off the table. Your opponent receives ball in hand behind the head string.
+
+## 13 Jumped Balls
+
+1. It is a foul if you jump an object ball off the table. The object ball is spotted and your opponent accepts the cue ball in position.
+
+## 14 Illegally Pocketed Balls / Owed Balls – Spotting Requirements
+
+1. All illegally pocketed or owed balls are spotted, but spotting is delayed until the shooter’s inning ends. If you score the last ball remaining on the table but have not yet won the game, any illegally pocketed or owed balls being held for spotting are then spotted at once and your inning continues.
+
+## 15 Spotting Forgotten Balls
+
+1. If both players agree, forgotten balls may be spotted at any time after they are remembered. If either player objects to the earlier spotting then any owed balls are spotted after the end of the next player’s inning. However, if there are no balls left on the table and the game has not been won, then all forgotten balls must be spotted immediately.
+
+## 16 All Remaining Balls are Behind the Head String with Cue Ball in Hand Behind the Head String
+
+1. When you have cue ball in hand behind the head string and all remaining balls are also behind the head string, the object ball nearest the head string may be spotted upon your request. If two or more balls at an equal distance from the head string are nearest the head string, you may choose which ball to spot.
+
+## 17 End of Game
+
+1. For two players, the game ends when:
+   - a. in a long rack game, one player has legally pocketed eight balls and does not owe any balls;
+   - b. in a short rack game, one player has legally pocketed five balls and does not owe any balls.
+
+2. For three, four or five players, the long rack game ends when one player has legally pocketed five, four, or three balls, respectively, and does not owe any balls.
+
+## 18 Express Rule for Overtime Matches
+
+1. If a match exceeds 60 minutes of continuous play, the referee or tournament director may invoke the Express Rule to ensure timely tournament progression.
+
+2. Under the Express Rule, the match will continue under modified shot requirements based on the core rules of [Honolulu Pool](https://en.wikipedia.org/wiki/Honolulu_(pool)):
+   - All shots must be called;
+   - Straight-in shots are not allowed.
+   - The following shot types are permitted for legally pocketing a ball:
+     - Bank shots: object ball rebounds off at least one cushion before being pocketed;
+     - Kick shots: cue ball contacts one or more rails before hitting the object ball;
+     - Carom shots: cue ball contacts multiple object balls;
+     - Jump shots: cue ball jumps over one or multiple balls before contacting the designated ball;
+     - Combination shots: object ball hits the designated ball or combination with above shots;
+
+4. Any ball pocketed on a straight-in shot or uncalled shot will be considered illegally pocketed.
+
+5. The first player to reach the winning score (e.g., 2 racks in a best-of-3 match) under these conditions will win the match.
+
+6. The implementation of the Express Rule is at the sole discretion of tournament officials and may not be appealed. It is intended to maintain tournament flow and fairness in extended matches.
+
+7. For organizational or time-management reasons, tournament officials may decide to terminate an overtime match. In such a case:
+   - The player with the highest current score will be declared the winner;
+   - If the score is tied, the match will resume under Express Rules and the next legally scored point will determine the winner.
