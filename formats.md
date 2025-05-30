@@ -20,11 +20,11 @@ layout: default
 
 ## 🧩 Estimated Tournament Runtime by Number of Tables
 
-| Tables | Parallel Matches | Pure Match Time | With Operational Buffer (25–30%) | Recommended Format           |
-|--------|------------------|------------------|-----------------------------------|------------------------------|
-| 4      | 4                | ~13.75 hours      | **~17–18 hours**                  | Two-day event                |
-| 6      | 6                | ~9.2 hours        | **~11.5–12 hours**                | Long single-day              |
-| 8      | 8                | ~6.9 hours        | **~9 hours**                      | Single-day event             |
+| Tables | Parallel Matches | Pure Match Time | With Operational Buffer (25–30%) |
+|--------|------------------|------------------|-----------------------------------|
+| 4      | 4                | ~13.75 hours      | **~17–18 hours**                  |
+| 6      | 6                | ~9.2 hours        | **~11.5–12 hours**                |
+| 8      | 8                | ~6.9 hours        | **~9 hours**                      |
 
 ## ⏱️ Including Operational Buffer Time
 
