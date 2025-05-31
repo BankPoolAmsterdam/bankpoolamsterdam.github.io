@@ -122,8 +122,8 @@ Players are expected to be familiar with these fouls and conduct themselves acco
 1. If a match exceeds 60 minutes of continuous play, the referee or tournament director may invoke the Express Rule to ensure timely tournament progression.
 
 2. Under the Express Rule, the match will continue under modified shot requirements based on the core rules of [Honolulu Pool](https://en.wikipedia.org/wiki/Honolulu_(pool)):
+   - Straight-in shots are not allowed;
    - All shots must be called;
-   - Straight-in shots are not allowed.
    - The following shot types are permitted for legally pocketing a ball:
      - Bank shots: object ball rebounds off at least one cushion before being pocketed;
      - Kick shots: cue ball contacts one or more rails before hitting the object ball;
