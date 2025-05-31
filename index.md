@@ -144,7 +144,7 @@ Players are expected to be familiar with these fouls and conduct themselves acco
    - If the score is tied, the match will resume under Express Rules and the next legally scored point will determine the winner.
 
 ## 19. Appendix of Standard Bank Pool Terminology
-Courtesy of [bankpool.org](https://bankpool.org/)
+Courtesy of [bankpool.org](https://bankpool.org/) *(definition of cross-over bank added)*
 
 - **Cross-over**: A bank shot where the path of the object ball on the way to the pocket after it banks, crosses paths with the cue ball;
 - **Cross-corner**: A one-rail bank off one of the long cushions (side of the table) shot into a corner pocket;
