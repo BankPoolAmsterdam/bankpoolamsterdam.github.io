@@ -146,15 +146,15 @@ Players are expected to be familiar with these fouls and conduct themselves acco
 ## 19. Appendix of Standard Bank Pool Terminology
 Courtesy of [bankpool.org](https://bankpool.org/) *(definition of cross-over bank added)*
 
-- **Cross-over**: A bank shot where the path of the object ball on the way to the pocket after it banks, crosses paths with the cue ball;
-- **Cross-corner**: A one-rail bank off one of the long cushions (side of the table) shot into a corner pocket;
-- **Cross-side**: A one-rail bank shot off one of the long cushions (side of the table) shot into a side pocket;
-- **One-rail**: Any shot banked off any single cushion;
-- **Straight-back**:  A one-rail bank off an end cushion (head or foot of the table) into a corner pocket;
-- **Straight-back underneath**:  Designates the target pocket as the one nearest the shooter on a straight back bank;
+- **Cross over**: A bank shot where the path of the object ball on the way to the pocket after it banks, crosses paths with the cue ball;
+- **Cross corner**: A one-rail bank off one of the long cushions (side of the table) shot into a corner pocket;
+- **Cross side**: A one-rail bank shot off one of the long cushions (side of the table) shot into a side pocket;
+- **One rail**: Any shot banked off any single cushion;
+- **Straight back**:  A one-rail bank off an end cushion (head or foot of the table) into a corner pocket;
+- **Straight back underneath**:  Designates the target pocket as the one nearest the shooter on a straight back bank;
 - **Straight back twice, or Up and down**: A two-rail shot banked up and down the table into a corner pocket, using only the head and foot cushions;
 - **Straight back three times**: A three-rail bank up and down the table into a corner pocket, using only the head and foot cushions;
-- **Two-rails**: Any two-cushion bank shot;
+- **Two rails**: Any two-cushion bank shot;
 - **Two in the corner**: Any two-cushion bank shot into a corner pocket;
 - **Two in the side**: Any two-cushion bank shot into a side pocket;
 - **Twice across in the side**: A two-cushion bank back and forth across the table into a side pocket, using only the side cushions;
