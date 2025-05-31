@@ -28,7 +28,7 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 3. If your break is illegal, your opponent may:
    - a. accept the table in position, or;
-   - b. re-rack the balls and break or make you break again.
+   - b. re-rack the balls and break or allow you to break again.
 
 ## 4. Breaking Subsequent Racks
 
