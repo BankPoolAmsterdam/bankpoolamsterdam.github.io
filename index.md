@@ -63,7 +63,7 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 3. For shots involving multiple rails, the player must explicitly call the shot in a way that removes any ambiguity.
 
-## 9. Jump Shot
+## 9. Jump Shots
 
 1. Jump bank shots are allowed and you can use a dedicated jump cue to execute the shot.
 
