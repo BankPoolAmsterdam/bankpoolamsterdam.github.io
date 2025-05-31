@@ -97,19 +97,23 @@ Players are expected to be familiar with these fouls and conduct themselves acco
 
 1. It is a foul if you scratch or jump the cue ball off the table. Your opponent receives ball in hand behind the head string.
 
-## 13. Illegally Pocketed Balls / Owed Balls – Spotting Requirements
+## 13. Jumped Balls Off Table
+
+1. It is a foul if you jump an object ball off the table.  The object ball is spotted and your opponent accepts the cue ball in position.
+
+## 14. Illegally Pocketed Balls / Owed Balls – Spotting Requirements
 
 1. All illegally pocketed or owed balls are spotted, but spotting is delayed until the shooter’s inning ends. If you score the last ball remaining on the table but have not yet won the game, any illegally pocketed or owed balls being held for spotting are then spotted at once and your inning continues.
 
-## 14. Spotting Forgotten Balls
+## 15. Spotting Forgotten Balls
 
 1. If both players agree, forgotten balls may be spotted at any time after they are remembered. If either player objects to the earlier spotting then any owed balls are spotted after the end of the next player’s inning. However, if there are no balls left on the table and the game has not been won, then all forgotten balls must be spotted immediately.
 
-## 15. All Remaining Balls are Behind the Head String with Cue Ball in Hand Behind the Head String
+## 16. All Remaining Balls are Behind the Head String with Cue Ball in Hand Behind the Head String
 
 1. When you have cue ball in hand behind the head string and all remaining balls are also behind the head string, the object ball nearest the head string may be spotted upon your request. If two or more balls at an equal distance from the head string are nearest the head string, you may choose which ball to spot.
 
-## 16. End of Game
+## 17. End of Game
 
 1. For two players, the game ends when:
    - a. in a long rack game, one player has legally pocketed eight balls and does not owe any balls;
@@ -117,7 +121,7 @@ Players are expected to be familiar with these fouls and conduct themselves acco
 
 2. For three, four or five players, the long rack game ends when one player has legally pocketed five, four, or three balls, respectively, and does not owe any balls.
 
-## 17. Express Rule for Overtime Matches
+## 18. Express Rule for Overtime Matches
 
 1. If a match exceeds 60 minutes of continuous play, the referee or tournament director may invoke the Express Rule to ensure timely tournament progression.
 
@@ -137,13 +141,13 @@ Players are expected to be familiar with these fouls and conduct themselves acco
 
 6. The implementation of the Express Rule is at the sole discretion of tournament officials and may not be appealed. It is intended to maintain tournament flow and fairness in extended matches.
 
-## 18. Termination of Overtime Matches
+## 19. Termination of Overtime Matches
 
 1. For organizational or time-management reasons, tournament officials may decide to terminate an overtime match. In such a case:
    - The player with the highest current score will be declared the winner;
    - If the score is tied, the match will resume under Express Rules and the next legally scored point will determine the winner.
 
-## 19. Appendix of Standard Bank Pool Terminology
+## Appendix of Standard Bank Pool Terminology
 Courtesy of [bankpool.org](https://bankpool.org/) *(definition of cross-over bank added)*
 
 - **Cross over**: A bank shot where the path of the object ball on the way to the pocket after it banks, crosses paths with the cue ball;
