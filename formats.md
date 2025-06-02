@@ -22,6 +22,14 @@ These buffers ensure a realistic and efficient tournament schedule with reduced 
 - Players: 32
 - Match format: Best of 3 / Race to 2
 - **Average match time: 60 minutes**
+- Tables available: 6
+- Short rack setup (9 balls)
+- Match slots scheduled: 61
+- Matches required: ~55
+- Built-in slack: ~6 slots for delays or long matches
+- Final comfortably playable between 23:00 – 00:30
+- Match duration: ~60 minutes
+- Target end: ~1:00 AM
 
 ## 🧮 Match Volume Estimate
 - Double KO phase (until 8 players remain): ~48 matches
@@ -43,19 +51,6 @@ These buffers ensure a realistic and efficient tournament schedule with reduced 
 
 _Using 6 tables and 60-minute average match duration with ~25% buffer_
 
-### Format Summary
-- 32 players
-- 6 tables available
-- Short rack setup (9 balls)
-- Double elimination until quarterfinals
-- Single elimination from quarterfinals
-- Match slots scheduled: 61
-- Matches required: ~55
-- Built-in slack: ~6 slots for delays or long matches
-- Final comfortably playable between 23:00 – 00:30
-- Match duration: ~60 minutes
-- Target end: ~1:00 AM
-
 | Time Slot         | Matches Played | Round Focus                                |
 |-------------------|----------------|---------------------------------------------|
 | **14:00 – 15:00** | 6 matches      | Round 1 – Winners Bracket (WB)              |
@@ -75,18 +70,18 @@ _Using 6 tables and 60-minute average match duration with ~25% buffer_
 # 📊 Estimated Tournament Duration – 16 Players, Double KO to Quarterfinals
 
 ## 🔁 Format Summary
-- 16 players
-- 6 tables available
+- Format: Double Elimination until Quarterfinals → Single Elimination from Quarterfinals
+- Players: 32
+- Match format: Best of 3 / Race to 2
+- **Average match time: 60 minutes**
+- Tables available: 6
 - Short rack setup (9 balls)
-- Double elimination until quarterfinals
-- Single elimination from quarterfinals
 - Match slots scheduled: 29
 - Matches required: ~29
-- Built-in slack: 0
+- Built-in slack: 0 slots for delays or long matches
 - Final comfortably playable between 23:30 – 01:00
 - Match duration: ~60 minutes
 - Target end: ~1:00 AM
-
 
 ## 🧮 Match Volume Estimate
 
@@ -94,11 +89,9 @@ _Using 6 tables and 60-minute average match duration with ~25% buffer_
 - Final Single Elimination phase (QF, SF, Final): 7 matches
 - **Total estimated matches: ~29**
 
-
 ## ⏱️ Raw Match Time
 
 - 29 matches × 60 minutes = **1,740 minutes (~29 hours)**
-
 
 ## 🧩 Estimated Tournament Runtime by Number of Tables
 
@@ -108,11 +101,9 @@ _Using 6 tables and 60-minute average match duration with ~25% buffer_
 | 6      | 6                | ~4.8 hours      | **~6–6.5 hours**       | Single evening or light day |
 | 8      | 8                | ~3.6 hours      | **~4.5–5 hours**       | Half-day event or evening |
 
-
 ## 🕓 Tournament Timeline Example – Start Time: 6:00 PM (18:00)
 
 _Using 6 tables and 60-minute average match duration with ~25% buffer_
-
 
 | Time Slot       | Matches Played | Round / Phase                                  |
 |-----------------|----------------|------------------------------------------------|
