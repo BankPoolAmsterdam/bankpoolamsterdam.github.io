@@ -44,6 +44,16 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 2. Any ball pocketed in addition to the called ball on the same shot does not count and is an illegally pocketed ball.
 
+3. It is recommended that each player stores their legally pocketed balls in one of the corner pockets closest to their position at the table. This method allows for quick and visible tracking of individual scores.
+
+2. In the event of a foul requiring a ball to be spotted (see Rules 10 and 11), the player may simply remove one ball from their designated scoring pocket and hand it to the referee or place it on the foot spot.
+
+3. If a player has not yet scored any balls and incurs a foul, they “owe” a ball. To represent a negative score, players may place a coin or other small agreed-upon marker under the edge of the rail near their corner pocket. Any such method must be clear and acknowledged by both players before the match begins.
+
+4. Players may alternatively agree on any other clear and consistent method for tracking negative scores, such as using chips, counters, or a written scoreboard.
+
+5. All scorekeeping should remain visible to both players and referees at all times to avoid disputes.
+
 ## 7. Legally Pocketed Ball
 
 1. A ball is legally pocketed if:
