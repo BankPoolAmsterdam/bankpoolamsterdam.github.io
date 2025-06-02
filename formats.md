@@ -95,11 +95,11 @@ _Using 6 tables and 60-minute average match duration with ~25% buffer_
 
 ## 🧩 Estimated Tournament Runtime by Number of Tables
 
-| Tables | Parallel Matches | Raw Match Time | With Buffer (25–30%) | Suggested Format        |
-|--------|------------------|----------------|------------------------|--------------------------|
-| 4      | 4                | ~7.25 hours     | **~9–9.5 hours**       | Full-day event           |
-| 6      | 6                | ~4.8 hours      | **~6–6.5 hours**       | Single evening or light day |
-| 8      | 8                | ~3.6 hours      | **~4.5–5 hours**       | Half-day event or evening |
+| Tables | Parallel Matches | Raw Match Time | With Buffer (25–30%) |
+|--------|------------------|----------------|------------------------|
+| 4      | 4                | ~7.25 hours     | **~9–9.5 hours**       |
+| 6      | 6                | ~4.8 hours      | **~6–6.5 hours**       |
+| 8      | 8                | ~3.6 hours      | **~4.5–5 hours**       |
 
 ## 🕓 Tournament Timeline Example – Start Time: 6:00 PM (18:00)
 
