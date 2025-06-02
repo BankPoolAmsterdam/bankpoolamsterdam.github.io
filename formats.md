@@ -74,7 +74,7 @@ _Using 6 tables and 60-minute average match duration with ~25% buffer_
 
 # 📊 Estimated Tournament Duration – 16 Players, Double KO to Quarterfinals
 
-## Format Summary
+## 🔁 Format Summary
 - 16 players
 - 6 tables available
 - Short rack setup (9 balls)
