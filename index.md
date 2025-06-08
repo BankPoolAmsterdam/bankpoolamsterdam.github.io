@@ -153,14 +153,20 @@ Players are expected to be familiar with these fouls and conduct themselves acco
 
 ## 19. Termination of Overtime Matches
 
-1. For organizational or time-management reasons, tournament officials may decide to terminate an overtime match, even if the Express Rule is in effect. In such a case tournament officials may choose to resolve the match by a shootout:
+1. For organizational or time-management reasons, tournament officials may decide to terminate an overtime match. In such a case:
 
-   - Each player will take alternating shots from ball in hand behind the head string, attempting to pocket a single object ball placed on the foot spot in a single attempt.
-   - The object ball must be banked into a called pocket, following all standard bank shot rules.
-   - Players alternate attempts until one player scores and the other misses in the same round.
-   - Current score will be maintained when switching to shootouts and first player to reach the target score will win.
+   - The player with the highest current score will be declared the winner;
+   - If the score is tied, the match will resume under Express Rules and the next legally scored point will determine the winner.
 
-2. The decision to use a shootout is at the sole discretion of the tournament officials and may not be appealed. Players must comply immediately upon instruction.
+2. Alternatively, tournament officials may choose to resolve the match by a shootout:
+
+   - Each player will take alternating shots with cue ball in hand behind the head string, attempting to pocket a single object ball placed on the foot spot in a single attempt;
+   - The object ball must be banked into a called pocket, following all standard bank shot rules;
+   - The initial score for each player will be the sum of their legally pocketed balls during the entire match;
+   - The winner is the player that reaches the target score.
+   - If more than one player reaches the target score at the end of the same inning, the shootout will continue until one scores and the other misses in the same round.
+
+3. The decision to terminate an overtime match is at the sole discretion of the tournament officials and may not be appealed. Players must comply immediately upon instruction.
 
 ## Appendix of Standard Bank Pool Terminology
 Courtesy of [bankpool.org](https://bankpool.org/) *(definition of cross-over bank added)*
