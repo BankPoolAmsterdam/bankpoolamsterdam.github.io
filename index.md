@@ -10,21 +10,21 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 ## 1. The Game
 
-1. Bank Pool (also called “Banks”) is a call shot game played with fifteen object balls plus a cue ball in the long rack game, and any nine object balls plus a cue ball in the short rack game. To score you are required to play a bank shot. The object of the game is to score a predetermined number of balls before your opponent does. The game is played by two, three, four or five players. Two players may play either a long rack or short rack game. For three, four or five players, the long rack game is the suggested format.
+1. Bank Pool (also called “Banks”) is a call shot game played with fifteen object balls plus a cue ball in the long rack game, and any nine object balls plus a cue ball in the short rack game. To score you are required to play a bank shot. The object of the game is to score a predetermined number of balls before your opponent does. The game is played by two, three, four or five players. Two players may play either a long rack or short rack game. For three, four, or five players, the long rack game is the suggested format.
 
 ## 2. The Rack
 
 1. The balls are racked as follows:
-   - a. in long rack bank pool, in a triangle and placed randomly;
-   - b. in short rack bank pool, in a diamond and placed randomly;
+   - a. in a long rack bank pool, in a triangle and placed randomly;
+   - b. in a short rack bank pool, in a diamond and placed randomly;
    - c. the apex ball on the foot spot;
    - d. the rows behind the apex are parallel to the foot string.
 
 ## 3. Break Requirements
 
-1. You begin the break with cue ball in hand behind the head string. There is no requirement to contact any particular object ball first. You must cause at least four object balls to contact the cushions and at least one object ball has to pass the side pocket or it is an illegal break. Any balls pocketed on the opening break are not scored and are spotted after your inning ends.
+1. You begin the break with the cue ball in hand behind the head string. There is no requirement to contact any particular object ball first. You must cause at least four object balls to contact the cushions and at least one object ball has to pass the side pocket or it is an illegal break. Any balls pocketed on the opening break are not scored and are spotted after your inning ends.
 
-2. All players are required to use a forceful break. The determination of a forceful break is at the discretion of tournament officials. If a break is not deemed forceful enough, the officials may issue a warning. A second warning will result in a foul being called and ball-in-hand awarded to the opponent. A third instance will be considered unsportsmanlike conduct and may result in further disciplinary action under tournament rules.
+2. All players are required to use a forceful break. The determination of a forceful break is at the discretion of tournament officials. If a break is not deemed forceful enough, the officials may issue a warning. A second warning will result in a foul being called and cue ball in hand awarded to the opponent. A third instance will be considered unsportsmanlike conduct and may result in further disciplinary action under tournament rules.
 
 3. If your break is illegal, your opponent may:
    - a. accept the table in position, or;
@@ -58,7 +58,7 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 1. A ball is legally pocketed if:
    - a. it is pocketed as the result of a bank shot;
-   - b. the number of cushions are designated when calling the shot and only that number of cushions are contacted;
+   - b. the number of cushions is designated when calling the shot and only that number of cushions is contacted;
    - c. it is not pocketed as a result of a kiss or carom;
    - d. it is not contacted by the cue ball more than once;
    - e. no foul is committed on the shot.
@@ -81,7 +81,7 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 1. The following are the most common fouls that may occur during a standard game of Bank Pool. Committing any of these fouls results in a penalty as described in Rule 11 (Foul Penalty).
 
-  - No cushion contact after the cue ball strikes the object ball, if no ball is pocketed;
+  - No cushion contact after the cue ball strikes the object ball if no ball is pocketed;
 
   - Double hit or push shot;
 
@@ -97,15 +97,15 @@ Players are expected to be familiar with these fouls and conduct themselves acco
 
 ## 11. Foul Penalty
 
-1. For each foul you commit you must spot one of your previously scored balls, reducing your score by one. If your score reaches negative three (-3) is loss of game.
+1. For each foul you commit you must spot one of your previously scored balls, reducing your score by one. If your score reaches negative three (-3) is a loss of the game.
 
 2. If you foul and have no previously scored object balls, you “owe” one for that foul and must spot balls after each scoring inning until all “owed balls” are eliminated.
 
-3. Your opponent must play the cue ball in position, unless there is a scratch or it is jumped off the table.
+3. Your opponent must play the cue ball in position unless there is a scratch or it is jumped off the table.
 
 ## 12. Scratch or Cue Ball Jumped Off Table
 
-1. It is a foul if you scratch or jump the cue ball off the table. Your opponent receives ball in hand behind the head string.
+1. It is a foul if you scratch or jump the cue ball off the table. Your opponent receives cue ball in hand behind the head string.
 
 ## 13. Jumped Balls Off Table
 
@@ -129,10 +129,10 @@ Players are expected to be familiar with these fouls and conduct themselves acco
    - a. in a long rack game, one player has legally pocketed eight balls and does not owe any balls;
    - b. in a short rack game, one player has legally pocketed five balls and does not owe any balls.
 
-2. For three, four or five players, the long rack game ends when one player has legally pocketed five, four, or three balls, respectively, and does not owe any balls.
+2. For three, four, or five players, the long rack game ends when one player has legally pocketed five, four, or three balls, respectively, and does not owe any balls.
 
 ## 18. Express Rule for Overtime Matches
-
+,
 1. If a match exceeds 60 minutes of continuous play, the referee or tournament director may invoke the Express Rule to ensure timely tournament progression.
 
 2. Under the Express Rule, the match will continue under modified shot requirements based on the core rules of [Honolulu Pool](https://en.wikipedia.org/wiki/Honolulu_(pool)):
@@ -143,7 +143,7 @@ Players are expected to be familiar with these fouls and conduct themselves acco
      - Kick shots: cue ball contacts one or more rails before hitting the object ball;
      - Carom shots: cue ball contacts multiple object balls;
      - Jump shots: cue ball jumps over one or multiple balls before contacting the designated ball;
-     - Combination shots: object ball hits the designated ball or combination with above shots;
+     - Combination shots: object ball hits the designated ball or combination with the above shots;
 
 4. Any ball pocketed on a straight-in shot or uncalled shot will be considered illegally pocketed.
 
