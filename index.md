@@ -81,17 +81,12 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 1. The following are the most common fouls that may occur during a standard game of Bank Pool. Committing any of these fouls results in a penalty as described in Rule 11 (Foul Penalty).
 
-  - No cushion contact after the cue ball strikes the object ball if no ball is pocketed;
-
-  - Double hit or push shot;
-
-  - Cue ball scratch;
-
-  - Jumping the cue ball off the table;
-
-  - Jumping an object ball off the table;
-
-  - Touching balls or the cue ball with hand, cue, clothing, or hair.
+  - a. No cushion contact after the cue ball strikes the object ball if no ball is pocketed;
+  - b. Double hit or push shot;
+  - c. Cue ball scratch;
+  - d. Jumping the cue ball off the table;
+  - e. Jumping an object ball off the table;
+  - f. Touching balls or the cue ball with hand, cue, clothing, or hair.
 
 Players are expected to be familiar with these fouls and conduct themselves accordingly. Repeated infractions or intentional fouling may lead to warnings or further disciplinary action.
 
@@ -126,24 +121,24 @@ Players are expected to be familiar with these fouls and conduct themselves acco
 ## 17. End of Game
 
 1. For two players, the game ends when:
-   - a. in a long rack game, one player has legally pocketed eight balls and does not owe any balls;
-   - b. in a short rack game, one player has legally pocketed five balls and does not owe any balls.
+   - a. In a long rack game, one player has legally pocketed eight balls and does not owe any balls;
+   - b. In a short rack game, one player has legally pocketed five balls and does not owe any balls.
 
 2. For three, four, or five players, the long rack game ends when one player has legally pocketed five, four, or three balls, respectively, and does not owe any balls.
 
 ## 18. Express Rule for Overtime Matches
-,
+
 1. If a match exceeds 60 minutes of continuous play, the referee or tournament director may invoke the Express Rule to ensure timely tournament progression.
 
 2. Under the Express Rule, the match will continue under modified shot requirements based on the core rules of [Honolulu Pool](https://en.wikipedia.org/wiki/Honolulu_(pool)):
-   - Straight-in shots are not allowed;
-   - All shots must be called;
-   - The following shot types are permitted for legally pocketing a ball:
-     - Bank shots: object ball rebounds off at least one cushion before being pocketed;
-     - Kick shots: cue ball contacts one or more rails before hitting the object ball;
-     - Carom shots: cue ball contacts multiple object balls;
-     - Jump shots: cue ball jumps over one or multiple balls before contacting the designated ball;
-     - Combination shots: object ball hits the designated ball or combination with the above shots;
+   - a. Straight-in shots are not allowed;
+   - b. All shots must be called;
+   - c. The following shot types are permitted for legally pocketing a ball:
+     - c1. Bank shots: object ball rebounds off at least one cushion before being pocketed;
+     - c2. Kick shots: cue ball contacts one or more rails before hitting the object ball;
+     - c3. Carom shots: cue ball contacts multiple object balls;
+     - c4. Jump shots: cue ball jumps over one or multiple balls before contacting the designated ball;
+     - c5. Combination shots: object ball hits the designated ball or combination with the above shots;
 
 4. Any ball pocketed on a straight-in shot or uncalled shot will be considered illegally pocketed.
 
@@ -153,18 +148,17 @@ Players are expected to be familiar with these fouls and conduct themselves acco
 
 ## 19. Termination of Overtime Matches
 
-1. For organizational or time-management reasons, tournament officials may decide to terminate an overtime match. In such a case:
+1. For organizational or time management reasons, tournament officials may decide to terminate an overtime match. In such a case:
+   - a. If the score is tied, the match will resume under Express Rules and the next legally scored point will determine the winner.
+   - b. If the score difference is greater or equal to three, the player with the highest amount of legally pocketed balls will be declared the winner.
+   - c. If the score difference is less than three, the match will be resolved by a shootout.
 
-   - The player with the highest current score will be declared the winner;
-   - If the score is tied, the match will resume under Express Rules and the next legally scored point will determine the winner.
-
-2. Alternatively, tournament officials may choose to resolve the match by a shootout:
-
-   - Each player will take alternating shots with cue ball in hand behind the head string, attempting to pocket a single object ball placed on the foot spot in a single attempt;
-   - The object ball must be banked into a called pocket, following all standard bank shot rules;
-   - The initial score for each player will be the sum of their legally pocketed balls during the entire match;
-   - The winner is the player that reaches the target score.
-   - If more than one player reaches the target score at the end of the same inning, the shootout will continue until one scores and the other misses in the same round.
+2. If the score difference is less than three, tournament officials may choose to resolve the overtime match by a shootout:
+   - a. Each player will take alternating shots with cue ball in hand behind the head string, attempting to pocket a single object ball placed on the foot spot in a single attempt;
+   - b. The object ball must be banked into a called pocket, following all standard bank shot rules;
+   - c. The initial score for each player will be the sum of their legally pocketed balls during the entire match;
+   - d. The first player to reach the target score is the winner unless the opponent also reaches the score at the end of the inning;
+   - e. If more than one player reaches the target score, the shootout will continue until one scores and the other misses in the same round.
 
 3. The decision to terminate an overtime match is at the sole discretion of the tournament officials and may not be appealed. Players must comply immediately upon instruction.
 
