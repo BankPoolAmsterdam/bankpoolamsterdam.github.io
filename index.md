@@ -16,7 +16,7 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 1. Before the start of the match, each player is allowed a 1.5-minute warm-up period, for a total of 3 minutes of table time. The purpose of the warm-up is to allow players to determine whether the table banks long or short, and to adjust accordingly. Players may use their warm-up time to shoot freely.
 
-## 2. The Rack
+## 3. The Rack
 
 1. The balls are racked as follows:
 
@@ -28,7 +28,7 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
    - d. The rows behind the apex are parallel to the foot string.
 
-## 3. Break Requirements
+## 4. Break Requirements
 
 1. You begin the break with the cue ball in hand behind the head string. There is no requirement to contact any particular object ball first. You must cause at least four object balls to contact the cushions, and at least one object ball has to pass the side pocket, or it is an illegal break. Any balls pocketed on the opening break are not scored and are spotted after your inning ends.
 
@@ -40,15 +40,15 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
    - b. Re-rack the balls and break or allow you to break again.
 
-## 4. Breaking Subsequent Racks
+## 5. Breaking Subsequent Racks
 
 1. If a match consists of multiple games, players must alternate breaking subsequent games.
 
-## 5. Continuing Play
+## 6. Continuing Play
 
 1. All object balls are legal. Your inning continues as long as you legally pocket a ball.
 
-## 6. Scoring
+## 7. Scoring
 
 1. A legally pocketed ball counts as one ball.
 
@@ -64,7 +64,7 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 5. All scorekeeping should remain visible to both players and referees at all times to avoid disputes.
 
-## 7. Legally Pocketed Ball
+## 8. Legally Pocketed Ball
 
 1. A ball is legally pocketed if:
 
@@ -80,7 +80,7 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 2. Contact with a cushion means that the called ball has made contact with a cushion designated as a part of the called bank shot. Incidental contact with a cushion as the object ball approaches the called pocket is not considered contacting an extra cushion that would disqualify a shot from being legal based on the number of called cushions.
 
-## 8. Shot Call Convention
+## 9. Shot Call Convention
 
 1. Players must call the object ball and the intended pocket, including the number of cushions that will be contacted by the object ball.
 
@@ -88,11 +88,11 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 3. For shots involving multiple rails, the player must explicitly call the shot in a way that removes any ambiguity.
 
-## 9. Jump Shots
+## 10. Jump Shots
 
 1. Jump bank shots are allowed, and you can use a dedicated jump cue to execute the shot.
 
-## 10. Fouls
+## 11. Fouls
 
 1. The following are the most common fouls that may occur during a standard game of Bank Pool. Committing any of these fouls results in a penalty as described in Rule 11 (Foul Penalty).
 
@@ -110,7 +110,7 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 Players are expected to be familiar with these fouls and conduct themselves accordingly. Repeated infractions or intentional fouling may lead to warnings or further disciplinary action.
 
-## 11. Foul Penalty
+## 12. Foul Penalty
 
 1. For each foul you commit, you must spot one of your previously scored balls, reducing your score by one. If your score reaches negative three (-3), it is a loss of the game.
 
@@ -118,27 +118,27 @@ Players are expected to be familiar with these fouls and conduct themselves acco
 
 3. Your opponent must play the cue ball in position unless there is a scratch or it is jumped off the table.
 
-## 12. Scratch or Cue Ball Jumped Off Table
+## 13. Scratch or Cue Ball Jumped Off Table
 
 1. It is a foul if you scratch or jump the cue ball off the table. Your opponent receives the cue ball in hand behind the head string.
 
-## 13. Jumped Balls Off Table
+## 14. Jumped Balls Off Table
 
 1. It is a foul if you jump an object ball off the table. The object ball is spotted, and your opponent accepts the cue ball in position.
 
-## 14. Illegally Pocketed Balls / Owed Balls – Spotting Requirements
+## 15. Illegally Pocketed Balls / Owed Balls – Spotting Requirements
 
 1. All illegally pocketed or owed balls are spotted, but spotting is delayed until the shooter’s inning ends. If you score the last ball remaining on the table but have not yet won the game, any illegally pocketed or owed balls being held for spotting are then spotted at once, and your inning continues.
 
-## 15. Spotting Forgotten Balls
+## 16. Spotting Forgotten Balls
 
 1. If both players agree, forgotten balls may be spotted at any time after they are remembered. If either player objects to the earlier spotting, then any owed balls are spotted after the end of the next player’s inning. However, if there are no balls left on the table and the game has not been won, then all forgotten balls must be spotted immediately.
 
-## 16. All Remaining Balls Are Behind the Head String with Cue Ball in Hand Behind the Head String
+## 17. All Remaining Balls Are Behind the Head String with Cue Ball in Hand Behind the Head String
 
 1. When you have the cue ball in hand behind the head string and all remaining balls are also behind the head string, the object ball nearest the head string may be spotted upon your request. If two or more balls at an equal distance from the head string are nearest the head string, you may choose which ball to spot.
 
-## 17. End of Game
+## 18. End of Game
 
 1. For two players, the game ends when:
 
@@ -148,7 +148,7 @@ Players are expected to be familiar with these fouls and conduct themselves acco
 
 2. For three, four, or five players, the long rack game ends when one player has legally pocketed five, four, or three balls, respectively, and does not owe any balls.
 
-## 18. Express Rule for Overtime Matches
+## 19. Express Rule for Overtime Matches
 
 1. If a match exceeds 60 minutes of continuous play, the referee or tournament director may invoke the Express Rule to ensure timely tournament progression.
 
@@ -176,7 +176,7 @@ Players are expected to be familiar with these fouls and conduct themselves acco
 
 6. The implementation of the Express Rule is at the sole discretion of tournament officials and may not be appealed. It is intended to maintain tournament flow and fairness in extended matches.
 
-## 19. Termination of Overtime Matches
+## 20. Termination of Overtime Matches
 
 1. For organizational or time management reasons, tournament officials may decide to terminate an overtime match. In such a case:
 
