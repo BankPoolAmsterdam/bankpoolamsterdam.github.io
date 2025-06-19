@@ -12,6 +12,10 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 1. Bank Pool (also called “Banks”) is a call shot game played with fifteen object balls plus a cue ball in the long rack game and any nine object balls plus a cue ball in the short rack game. To score, you are required to play a bank shot. The object of the game is to score a predetermined number of balls before your opponent does. The game is played by two, three, four, or five players. Two players may play either a long rack or short rack game. For three, four, or five players, the long rack game is the suggested format.
 
+## 2. Table Testing
+
+1. Before the start of the match, each player is allowed a 1.5-minute warm-up period, for a total of 3 minutes of table time. The purpose of the warm-up is to allow players to determine whether the table banks long or short, and to adjust accordingly. Players may use their warm-up time to shoot freely.
+
 ## 2. The Rack
 
 1. The balls are racked as follows:
