@@ -56,7 +56,7 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 3. It is recommended that each player stores their legally pocketed balls in one of the corner pockets closest to their position at the table. This method allows for quick and visible tracking of individual scores.
 
-2. In the event of a foul requiring a ball to be spotted (see [Rule 11 (Fouls)](#11-fouls) and [Rule 12 (Foul Penalty)](#12-foul-penalty)), the player may simply remove one ball from their designated scoring pocket and hand it to the referee or place it on the foot spot.
+2. In the event of a foul requiring a ball to be spotted (see [Rule 11. Fouls](#11-fouls) and [Rule 12. Foul Penalty](#12-foul-penalty)), the player may simply remove one ball from their designated scoring pocket and hand it to the referee or place it on the foot spot.
 
 3. If a player has not yet scored any balls and incurs a foul, they “owe” a ball. To represent a negative score, players may place a coin or other small agreed-upon marker under the edge of the rail near their corner pocket. Any such method must be clear and acknowledged by both players before the match begins.
 
@@ -94,7 +94,7 @@ Adapted from [CSI Official Rules – Section 7: Bank Pool](https://www.playcsipo
 
 ## 11. Fouls
 
-1. The following are the most common fouls that may occur during a standard game of Bank Pool. Committing any of these fouls results in a penalty as described in [Rule 12 (Foul Penalty)](#12-foul-penalty).
+1. The following are the most common fouls that may occur during a standard game of Bank Pool. Committing any of these fouls results in a penalty as described in [Rule 12. Foul Penalty](#12-foul-penalty).
 
   - a. Pocketing the cue ball;
 
